@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="DataSacienceProject"
+project_name="DATA_SCIENCE_PROJECT"
 
 list_of_files=[
     #".github/workflows/.gitkeep",          github
