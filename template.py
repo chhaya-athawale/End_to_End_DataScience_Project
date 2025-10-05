@@ -10,7 +10,7 @@ project_name="DATA_SCIENCE_PROJECT"
 list_of_files=[
     #".github/workflows/.gitkeep",          github
     f"src/{project_name}/__init__.py",
-    f"src/{project_name}/components/data_injestion.py",
+    f"src/{project_name}/components/data_ingestion.py",
     f"src/{project_name}/components/data_transformation.py",
     f"src/{project_name}/components/model_tranier.py",
     f"src/{project_name}/components/model_monitering.py",
